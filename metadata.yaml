@@ -1,0 +1,29 @@
+_repo: Butterflies-and-Moths-British-_34131
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34131-h/images/i_cover_tn.jpg
+creator:
+  author:
+    agent_name: Furneaux, William S.
+    alias: Furneaux, W. S. (William S.)
+    gutenberg_agent_id: '36811'
+    url: http://www.gutenberg.org/2009/agents/36811
+description: ''
+gutenberg_bookshelf:
+- Animal
+- Animals-Wild-Insects
+gutenberg_issued: '2010-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34131'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Butterflies -- Great Britain'
+- !lcsh 'Moths -- Great Britain'
+- !lcc 'QL'
+title: Butterflies and Moths (British)
+url: http://www.gutenberg.org/ebooks/34131
